@@ -174,3 +174,5 @@ ckpts/*
 !data/README.md
 !data/dummy_slakh2100/
 !ckpts/README.md
+!data/make_mix.py
+

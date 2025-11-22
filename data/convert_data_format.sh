@@ -1,6 +1,6 @@
-DATA_DIR="$(dirname $0)"
+DATA_DIR="/private/schwartz-lab/omriker/data/music_datasets/msdm_datasets"
 STEMS="bass drums guitar piano"
-OUT_DIR="$DATA_DIR/slakh2100"
+OUT_DIR="/private/schwartz-lab/omriker/data/music_datasets/msdm_formatted/slakh2100"
 
 for STEM in $STEMS
 do
